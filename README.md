@@ -77,13 +77,15 @@ By targeting a few specific drivers (Sales role, salary band, early tenure, comm
 
 # 📎 Appendix Structure
 
-Appendix 1 – Power BI Dashboard Visual Evidence
+### Dashboard Visuals
+All dashboard screenshots are available in the `/docs` folder.
 
-(All major Power BI chart screenshots placed here in project folder /appendix/charts)
+### SQL Query Evidence
+Screenshots of SQL queries + their output tables are available in `/appendix/sql` folder.
 
-# Appendix 2 – SQL Evidence
+### SQL Files
+All SQL scripts used to generate insights are available in the `/sql` folder.
 
-(SQL query screenshots + output tables in /appendix/sql)
 
 # 🧪 How to Reproduce
 
